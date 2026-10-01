@@ -55,3 +55,27 @@ const acc = numbers.reduce((accumulator, currentValue) => {
 }, 0);
 
 console.log(acc)
+
+
+const nums2 = [10, 20, 30, 40];
+
+const result = nums2.find((number) => number > 20);
+
+console.log(result);
+
+
+
+const nums3 = [10, 20, 30, 40];
+
+const result3 = nums3.some((number) => number > 25);
+
+console.log(result3);
+
+
+
+const nums4 = [2, 4, 6, 8];
+
+const result4 = nums4.every((number) => number % 2 === 0);
+
+console.log(result4);
+
