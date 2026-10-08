@@ -1,0 +1,7 @@
+Yash     is     learning     Node.js.
+
+Node.js      streams      are      powerful.
+
+This    is     a     stream     cleaner.
+
+     Extra spaces should be removed.

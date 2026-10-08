@@ -1,0 +1,13 @@
+{
+  "name": "day8",
+  "version": "1.0.0",
+  "description": "- The basic idea is:\r ```\r something happens\r |\r Event is emitted\r |\r Listener receives event\r |\r Listener executes function\r ```",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

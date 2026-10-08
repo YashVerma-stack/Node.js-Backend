@@ -1,0 +1,3 @@
+hello node.js
+this is a stream example
+we are learning transform streams
