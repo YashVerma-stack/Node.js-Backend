@@ -1,0 +1,20 @@
+{
+  "name": "day13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node middlewareLab.js",
+    "dev": "nodemon middlewareLab.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0",
+    "morgan": "^1.12.1"
+  }
+}
