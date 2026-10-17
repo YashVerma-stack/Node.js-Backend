@@ -1,0 +1,8 @@
+
+PORT=****
+
+DB_HOST=localhost
+DB_PORT=PORT_NUMBER
+DB_NAME=database_name
+DB_USER=postgres
+DB_PASSWORD=your_postgres_password
