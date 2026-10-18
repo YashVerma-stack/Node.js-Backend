@@ -1,0 +1,19 @@
+
+{
+  "name": "day19",
+  "version": "1.0.0",
+  "description": "Day 19 - Database Migrations and Deterministic Seed Scripts",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "db:migrate": "node scripts/migrate.js",
+    "db:seed": "node scripts/seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "pg": "^8.23.1"
+  }
+}
